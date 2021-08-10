@@ -1,0 +1,25 @@
+{
+  "name": "jest-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiaMattacchione/JEST-RPG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiaMattacchione/JEST-RPG/issues"
+  },
+  "homepage": "https://github.com/LiaMattacchione/JEST-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
